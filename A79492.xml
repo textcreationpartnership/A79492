@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dissembling scot set forth in his coulours or a vindication of Lieu. Col. John Lilburn and others. From those aspersions cast upon them by David Brown in his idle pamphlet directed to the supream authority of England the parliament assembled, and presented to curry favor with them when Lilburn was fined in 7000 li. and sentenced to be banished out of England, Scotland and Ireland, &amp;c. / Written by Samuel Chidley. And printed to satisfy all his friends. 1652.</title>
+            <author>Chidley, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79492</idno>
+            <idno type="STC">Wing C3839</idno>
+            <idno type="STC">Thomason E652_13</idno>
+            <idno type="STC">ESTC R205899</idno>
+            <idno type="EEBO-CITATION">99865131</idno>
+            <idno type="PROQUEST">99865131</idno>
+            <idno type="VID">117368</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79492)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117368)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E652[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dissembling scot set forth in his coulours or a vindication of Lieu. Col. John Lilburn and others. From those aspersions cast upon them by David Brown in his idle pamphlet directed to the supream authority of England the parliament assembled, and presented to curry favor with them when Lilburn was fined in 7000 li. and sentenced to be banished out of England, Scotland and Ireland, &amp;c. / Written by Samuel Chidley. And printed to satisfy all his friends. 1652.</title>
+                  <author>Chidley, Samuel.</author>
+               </titleStmt>
+               <extent>[4], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Febr. 1.st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:117368:1"/>
+            <p>
+               <figure>
+                  <head>
+                     <q>
+                        <l>Religion is made a Covering</l>
+                        <l>For every wicked and Rebelious thing,</l>
+                        <l>Errors are hid heer on the right and left</l>
+                        <l>Rebelion, Idolitry, and Theft,</l>
+                        <l>Plunders, and Rapins, Whordoms, Fornications,</l>
+                        <l>Diſsimulations, Flateries, and Invaſions,</l>
+                        <l>By Time, this Cloake is worn fro<g ref="char:cmbAbbrStroke">̄</g> of their Back</l>
+                        <l>So their's diſcover'd many a Knaviſh Knack.</l>
+                     </q>
+                  </head>
+                  <p>Religion</p>
+                  <p>
+                     <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+                  <p>perſecution</p>
+                  <p>
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+                  <p>Disaſimulatio</p>
+                  <p>Discord Mutany</p>
+                  <p>Robelion</p>
+                  <p>Plunder</p>
+                  <p>Rapine</p>
+                  <p>Fornication</p>
+                  <p>Whordomes</p>
+                  <p>Crueltie</p>
+                  <p>Invaſion</p>
+                  <p>Intruſion</p>
+                  <p>A good Contone welths Man</p>
+                  <p>To the Hon houſe of Comons. the high court of Parlement</p>
+                  <figDesc>woodcut</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:117368:2"/>
+            <pb facs="tcp:117368:2" rendition="simple:additions"/>
+            <p>The Diſſembling SCOT Set forth in his COVLOVRS OR A VINDICATION OF Lieu. Col. John Lilburn and Others.</p>
+            <p>From thoſe Aſperſions caſt upon them by <hi>David Brown</hi> in his idle pamphlet directed to the Supream Authority of <hi>England</hi> the Parlia<g ref="char:EOLhyphen"/>ment aſſembled, and preſented to curry favor with them when <hi>Lilburn</hi> was fined in 7000 <hi>li.</hi> and ſentenced to be baniſhed out of <hi>En<g ref="char:EOLhyphen"/>land, Scotland</hi> and <hi>Ireland,</hi> &amp;c.</p>
+            <q>
+               <bibl>
+                  <hi>Deuteronom. 25.17, 18, 19.</hi>
+               </bibl>
+               <p>Remember what <hi>Amalek</hi> did unto thee by the way, when yee were come out of <hi>Egypt.</hi>
+               </p>
+               <p>How he met thee by the way, and ſmote the hindmoſt of you, all that were fee<g ref="char:EOLhyphen"/>ble behind thee, when thou waſt fainted and weary, and be feared not God.</p>
+               <p>Therefore, &amp;c.</p>
+            </q>
+            <p>
+               <hi>Written by</hi> SAMVEL CHIDLEY.</p>
+            <p>AND Printed to ſatisfy all his Friends. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117368:3"/>
+            <pb n="1" facs="tcp:117368:3"/>
+            <head>A VINDICATION OF <hi>Lieut. Col.</hi> JOHN LILBURNE, <hi>and others.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">D</seg>Avid Browne</hi> the Pamphleteer, who under<g ref="char:EOLhyphen"/>taketh to teach men to write in ſix hours, is one whom LIEUT. COL. <hi>JOHN LILBORN,</hi> and my ſelfe, with divers o<g ref="char:EOLhyphen"/>thers whom hee maliciouſly inveighs a<g ref="char:EOLhyphen"/>gainſt, have releived, or elſe he and his Family might have periſhed (for ought I know,) And ſince he was de<g ref="char:EOLhyphen"/>livered unto Satan, for his wicked and notorious lies, and diſſimulations, the devill in whoſe hands he is, hath ſtirred him up to be more envious and malicious then e<g ref="char:EOLhyphen"/>ver, that he may be transformed more perfectly in to his own image, <hi>Who walketh to and fro like a roaring Lyon ſeeking whom he may devoure,</hi> and perſecuting the Church who is cloathed with the Sun of Righteouſneſſe, and un<g ref="char:EOLhyphen"/>to whoſe feet the Law of God is a light, making warre with the remnant of her ſeed who keep the teſtimony of God, and the faith of Jeſus. And his malice is principally bent againſt thoſe who are moſt conſcientious and preci<g ref="char:EOLhyphen"/>ous in the eyes of the Lord, as may appear in the ſtory
+<pb n="2" facs="tcp:117368:4"/>of holy <hi>Job,</hi> who was greatly afflicted on every ſide, both in his Perſon, Name and Eſtate, but in due time God vindicated his reputation before all men, and did bleſſe his latter end more then his beginning, and ſo if we mark the end of ſuch perfect and upright perſons, be<g ref="char:EOLhyphen"/>hold it is peace, but <hi>the wicked is like the raging Sea foa<g ref="char:EOLhyphen"/>ming out mire and dirt,</hi> meer mire and dirt; ſomewhat like to the dirty Pamphlet of <hi>David Brown</hi> the Scottiſh<g ref="char:EOLhyphen"/>man, the Frontiſ-peece whereof, ſeemeth to inſinuate to the ſimple honeſt Reader, as if LIEUT. COL. <hi>JOHN LILBORNE,</hi> my ſelfe, and Mr. <hi>Muſgrave</hi> were prodigious Conſpirators, and bloody Petitioners, but he that reads the Pamphlet may perceive that he hath no ſuch thing againſt us, bleſſed be God: But the ſum of it is, A remembrance to put the Parliament in mind of the diſcovery which he made of a Malignant Petition, wherein he complaineth that he was not rewarded for the ſaid Diſcovery, and ſtileth himſelfe and his Family, the <hi>Parliaments Remembrancers,</hi> ſo his whole Petitiona<g ref="char:EOLhyphen"/>ry Remonſtrance is a begging buſineſſe for mainte<g ref="char:EOLhyphen"/>nance, and protection from Arreſts.</p>
+            <p>Surely he thought that now, now was the time for him to ſtrike while the iron was hot, and that now the Par<g ref="char:EOLhyphen"/>liament were neceſſitated to hear and receive his counſel and to regard him, and reward him, ſeeing he had taken upon him now, in the heat of all the buſineſſe to be their Advocate, and to plead their cauſe againſt poor <hi>Lilborne</hi> who was down, and therefore according to the Proverb, <hi>downe with him,</hi> but its well that neither the Parliament nor Sir <hi>Arthur Heſilrige</hi> ſtand in need of the untempered morter, of ſuch unskilfull Daubers, to main<g ref="char:EOLhyphen"/>tain their Bulwarks againſt the Levellers, I hope rather then they will countenance ſuch revengefull ſpirits, they
+<pb n="3" facs="tcp:117368:4"/>will feed their Enemy when he is hungry, and give him drink when he is thirſty; for the Parliament of them<g ref="char:EOLhyphen"/>ſelves are very milde to their Enemies, if not provoked againſt them by ſome others.</p>
+            <p>It may be that this Pamphleteir thought that rather then he would want worke, he would ſet himſelfe on work, if the Devill will find him tooles: but as Chriſt would not have ſuch Advocates to confeſſe that he was the Son of God, but commanded the Devills to hold their peace; So its better for the Parliament to ſilence ſuch Babblers, then to ſuffer themſelves to be ſo diſgra<g ref="char:EOLhyphen"/>ced, by having their praiſe ſet forth in ſcurrillous Pam<g ref="char:EOLhyphen"/>plets, ſuch as this Authours, who not knowing which way to be revenged of me, for doing my duty in the Church of which I am (and he was) a Member, he labo<g ref="char:EOLhyphen"/>reth to make me as odious as he can to the world, and to the State, and at the time of <hi>Lilbornes</hi> ſad ſentence, char<g ref="char:EOLhyphen"/>geth me in chiefe, with him and divers others in general in his Pamphlet to the Parliament, with falſeneſſe, mani<g ref="char:EOLhyphen"/>fold calumniations, corrupt practiſes, unjuſt dealings, de<g ref="char:EOLhyphen"/>ceit, fraud, ambition, covetouſnes, and ſelfe-ſeeking, and unjuſt Levelling; and though he chargeth divers others with me, yet he hath not named them, no more doth he come to particulars to ſhew wherein we are as he charg<g ref="char:EOLhyphen"/>eth us. And truly though I hope well for my Neigh<g ref="char:EOLhyphen"/>bours, yet I beleeve for my ſelfe: And if I thought it expedient to Vindicate my ſelfe from the title of Level<g ref="char:EOLhyphen"/>ler, I would tell this falſe Accuſer, that if I am a Level<g ref="char:EOLhyphen"/>ler, I am no Leveller of the Vallies, but a Leveller of the <hi>MOUNTAINS,</hi> that the way of Jeſus Chriſt may be pre<g ref="char:EOLhyphen"/>pared, <hi>that all fleſh may ſee the ſalvation of our God,</hi> and this was the deſigne of <hi>John</hi> the <hi>Baptiſt,</hi> and I hope no honeſt man will be offended with me for this manner of
+<pb n="4" facs="tcp:117368:5"/>Levelling, nor account it unjuſt, But <hi>Herod</hi> heard <hi>John</hi> the <hi>Baptiſt</hi> gladly, but at laſt he cut off his head, and ſo he levelled the honeſt Leveller. Moreover I am ſo far from levelling the Lawes, That if the Parliament would put in practice their Legiſlative power, and caſt aſide all the Lawes of the Land, the Lawes excepted which they have no power to aboliſh, and yeeld obedience to thoſe good Laws and none but ſuch, they may ſit long enough for me, I would not be forward to ſeek a new Repreſenta<g ref="char:EOLhyphen"/>tive, but a true Repreſentative; But oh! Where ſhall we find men of courage, fearing God and hating cove<g ref="char:EOLhyphen"/>touſneſſe? therefore my opinion is, its better to have and to hold theſe that we have, then have worſe, the Pro<g ref="char:EOLhyphen"/>verb is, <hi>Seldome comes a better,</hi> But when the Land doth mend, I would have this Parliament end, and not till then. So far am I from unjuſt Levelling, that I would not pull an old houſe over mine head, but prepare ſuf<g ref="char:EOLhyphen"/>ficient materialls to build up another, that ſhould be ra<g ref="char:EOLhyphen"/>ther better then worſe then the former, and to have a care what I doe, for <hi>Salomon</hi> ſaith, <hi>He that rolleth a ſtone it ſhal fal upon him, and he that breaketh a hedge, a Serpent ſhall bite him.</hi> Concerning LIEU.COL. <hi>JOHN LILBURNE,</hi> I have known the man a long time, even from the time of his ſufferings by the blody Biſhops, and as hee was an inſtrumental means to pul them from their ſeats, ſo was he the main Inſtrument to rent in peeces Regall Tyranny, and the whole Houſe of Lords, which works were long attempted, and many onſets and repulſes be<g ref="char:EOLhyphen"/>fore the buſineſſe could be brought to that deſirable per<g ref="char:EOLhyphen"/>fection which was long ſought for, with labour and watching, and wearineſſe, and hazzard of life, and expence of blood and treaſure, and at length the buſineſſe was ac<g ref="char:EOLhyphen"/>compliſhed by the Army and Parliament.</p>
+            <pb n="5" facs="tcp:117368:5"/>
+            <p>And now I muſt ſay this on the behalfe of Lieu. Col.
+<note place="margin">Chidley's charity to Lilburn.</note> 
+               <hi>Lilburn,</hi> that whatſoever the matter is now, unleſſe he bee much altered from what he was, his nature is ſo good that hee is not a man given to complaine, but where the ſhooe wringeth him; if men will let him a<g ref="char:EOLhyphen"/>lone, he will let them alone, and in his dealings in the world he hath been very punctuall, neither can I tax him with any corrupt practiſes, or unjuſt dealings, I have found him a plain, blunt, down right honeſt man; he wil play above board, and he that playeth with him ſhall have faire quarter: He is not of ſuch a revengefull ſpi<g ref="char:EOLhyphen"/>rit to take his Adverſarie at advantages, and when he is down and at the weakeſt to tread upon him: And con<g ref="char:EOLhyphen"/>cerning ambition, doubtleſſe, he hath ſeemed to me as if he were prodigall of his owne life, and blood, and ſtrength, and liberty, and all that was dear to him for the good of this Commonwealth: He was an inſtru<g ref="char:EOLhyphen"/>ment under God, that kept the Parliament from imme<g ref="char:EOLhyphen"/>diate deſtruction, for he defended them with his ſword from <hi>Lunsfords</hi> Crew,
+<note place="margin">Lilburnes ambition.</note> ſo it ſeems to me all along as if he had been ambitious for Knocks, for a Priſon, a Dunge<g ref="char:EOLhyphen"/>on, a Pillory, a Whip, a Gagge, yea, and death it ſelfe, and yet he is alive at this day, though he hath ſought to looſe it, yet hath he found it: And touching covetouſ<g ref="char:EOLhyphen"/>neſſe, I hope he is free, I have known him to be liberall, and to be willing to ſpend and be ſpent for others when he hath wanted it himſelf, and I am ſure he is no Churle, but ready to do good to his ability; And had he been as Mr. <hi>Brown</hi> chargeth him, a Selfe-Seeker, crafty and de<g ref="char:EOLhyphen"/>ceitful, he might have feathered his neſt ten times better then he hath done, but he was like a candle lighted, ac<g ref="char:EOLhyphen"/>commodating others, and conſuming himſelf: Yea, hee who declareth himſelfe in Print againſt <hi>Lilburn,</hi> hath
+<pb n="6" facs="tcp:117368:6"/>received of him divers great ſums of money, but <hi>Lilburn</hi> complained that he could not get <hi>Brown</hi> to come to an ac<g ref="char:EOLhyphen"/>count with him, though he often deſired it, ſo falſe was he to him, as he was to the poore of our Church, and I know not that he hath preferred any of us to any eſtate, much leſſe a great eſtate, as he braggeth.</p>
+            <p>Indeed once I imployed him to copy out a Letter, becauſe it ſhould be in his hand-writing, and not in mine, and an ordinary Scrivener would have done it for ſix pence, but I thought it was better to imploy a brother in fellowſhip, then a ſtranger to write for me, and the truth is, I have done him no wrong, unleſſe it were dropping in his hands peeces of gold &amp; ſilver, which wrong he could, and did pocket up, and I could never get it to this day; no more could my mother get hers, which he came in a deceitfull way, and borrowed, and never paid, and it may be ſhee is the woman he ſpeakes of in his Pamphlet, though he chargeth her with no<g ref="char:EOLhyphen"/>thing; and if ſo, I muſt ſay that ſhe hath done more good for the Commonwealth in one quarter of a yeare, then he hath done, or, it may be, will doe all his life time, for God hath made her an inſtrument to deſtroy the Forelorne hope, and totally to rout all the forces of Mr. <hi>Edwards,</hi> that great Champion for the Church of <hi>England,</hi> as may appeare by her workes extant in Print.</p>
+            <p>And concerning Mr. <hi>MUSGRAVE,</hi> he is knowne to be a very honeſt Gentleman, and one that was an Agent for his County, and performed his truſt with di<g ref="char:EOLhyphen"/>ligence, and faithfulneſſe, and ſtood to his tacklings to the laſt, and though he were impriſoned wrongfully, in due time God releaſed him by meanes of the Army, when they came to <hi>London.</hi> The man is a man of good parts, having been bred up in the Law from his youth,
+<pb n="7" facs="tcp:117368:6"/>and alſo he is verſed in the Scripture, which is beſt of all; and had he but the abilities of <hi>Lilburne</hi> in expreſſing himſelfe, and that ſtrength of memory withall, hee would confound the Lawyers. But indeed, I have thought him ſomewhat too harſh to the Parliament men, and thought that if he dealt more mildly with them, and with more humility, his words would bee more acceptable unto them; but I have knowne it a frequent thing with him when I have walked with him in the ſtreets, he would make no more to reprove a Parliament man, or an Officer of the Army, then I would of reproving my ſervant.</p>
+            <p>As concerning the reſt of the perſons whom Mr. <hi>Brown</hi> inveighes againſt, though he name no man, yet I partly gueſſe whom he meanes, and what it is that di<g ref="char:EOLhyphen"/>ſtaſtes him, becauſe that they would not give him money for printing the whimſes of his owne braine, and ſuch crotchets as they were aſhamed of. Indeed if he had kept to their rules, and directions, and printed nothing, nor no more of a ſort then they gave him order to print, nor foyſted in his own tedious ſtuffe to the diſpa<g ref="char:EOLhyphen"/>ragement of that party of which he was a wiſe one, in his owne conceit, then he might have expected wages for his work. But when LIEU. COL. <hi>LILBURNE</hi> had writen a matter, and delivered it to him to print, and money to diſcharge the Printers; he would be ſtea<g ref="char:EOLhyphen"/>ling and foyſting in ſome mad ſtuffe or other, of his own, that would make honeſt <hi>Lilburne</hi> very much vexe and chafe, and then he would put it out againe, and ſend him againe to undoe what he had inſerted.</p>
+            <p>And as touching the private contributions, the Accu<g ref="char:EOLhyphen"/>ſer ſpeakes of charging me to be their Treaſurer, I nei<g ref="char:EOLhyphen"/>ther did unjuſtly diſpoſe thereof, nor inrich my ſelfe thereby, but am out of purſe, and had I the money in
+<pb n="8" facs="tcp:117368:7"/>my hand againe, I would not pay it out contrary to the order of thoſe who intruſted me, who were morall ho<g ref="char:EOLhyphen"/>neſt men, and ſo long as they did the things that were right, I joyned with them, and wherein I thought they were wrong, I would not ſigne to any of their Petiti<g ref="char:EOLhyphen"/>ons, till I were ſatisfied, much leſſe print any idle pro<g ref="char:EOLhyphen"/>jects, as this Pamphleteer alleadgeth; and ſo when they made inquiſition for the blood of one that was ſhot to death at <hi>Ware,</hi> I would not ſubſcribe it; becauſe I diſ<g ref="char:EOLhyphen"/>owned the Title; but I told the Houſe when I was ex<g ref="char:EOLhyphen"/>amined at the Bar, that although I ſubſcribed not the Petition, yet I owned the Petition, ſo farre as FROM THE LATTER END OF THE TITLE, TO THE END OF THE PETITION. The Title was THE SUPREAME AUTHORITY, and at that time, THE PARLIAMENT owned THE KING, and HOUSE OF LORDS, and were diſtaſted at ſuch as ſtiled them, The Supream Authority, as ſavouring of levelling, yet notwithſtanding I was committed to the Gate-houſe, but afterwards when the Army had conquered the King and his party, purged the Houſe, and owned THE PARLIAMENT for the SUPREAM AUTHORITY, and that the Houſe of Commons threw downe the Houſe of Lords, then I knew that they were the Su<g ref="char:EOLhyphen"/>pream Authority, and have owned them ever ſince, and have done them faithfull ſervice, and offices of love in endeavouring to make reconciliation betwixt party and party; and to perſwade them that they may ſit downe quietly under this preſent Government, and it is well knowne what paines and labour I beſtowed to make a handſome compoſure, and I did not altogether faile of my deſires and expectation. But in this buſines of Sir. <hi>Ar<g ref="char:EOLhyphen"/>thur Heſleriges</hi> I medled not having had matters of more
+<pb n="9" facs="tcp:117368:7"/>publike concernment to be exerciſed in, and thinking that <hi>Lilburne</hi> had ſuch to aſſiſt him who were more skilfull in the Law of <hi>England</hi> then my ſelfe.</p>
+            <p>Whereas the accuſer ſaith, that Printing hath beene our chiefeſt weapon, and by that occaſion, that wee have great correſpondency with Printers, and ſome of us ready to print what we pleaſe againſt them.</p>
+            <p>I anſwer, that my judgement is not for printing of hereſie or blaſphemy, or matter of ſcandall, or a lye, but onely the truth, and I hold it one of the greateſt abuſes of the Commonwealth, that ſo many lying foo<g ref="char:EOLhyphen"/>liſh Pamphlets have been, and are ſuffered to go abroad; ſurely the Printers have much to anſwer for at the day of judgement, ſeeing for every idle word which a man ſhall ſpeak, he muſt anſwer for at the day of Judgement, ſo farre am I from holding a correſpondence with them, that I pronounce the judgements of God againſt them, ſaying, Woe unto you Printers, for you have much to anſwer for: I have been more carefull what I print, then what I write or ſpeak, becauſe if a man print an Impreſſion of fifteen hundred books, peradventure they may be ſpread to 15000. perſons, and leven them all, and its (in a maner) impoſſible to recal them; Now who<g ref="char:EOLhyphen"/>ſoever readeth the laſt leaſe of this our Accuſers Pam<g ref="char:EOLhyphen"/>phlet, will have occaſion to think the man not to bee of very deep judgement, for though the Preſſe is free for all men both knaves and fooles, as well as wiſe men, pro<g ref="char:EOLhyphen"/>vided they put their names to it, and the Printer his name, which is too large a latitude (as I humbly con<g ref="char:EOLhyphen"/>ceive) Yet our Accuſer would have the Parliaments order to print againſt us, and layeth downe a poſitive Law, as if he and his family were a high Commiſſion; or Spaniſh Inquiſition, yea and worſe; <hi>viz.</hi> that whatſoever
+<pb n="10" facs="tcp:117368:8"/>Queries they ſhall propound to us, if we anſwer them not within the ſpace of three months and a day, ſhall be held thenceforth as confeſſed; But if the Parliament ſhould condiſcend to his baſe propoſition, wee would not enſlave our ſelves to ſuch a tyrannicall Law, for we have learned of a wiſer, not to anſwer a foole according to his folly; nevertheleſſe our Accuſer before he knew whether we would inſlave our ſelves to his baſe propo<g ref="char:EOLhyphen"/>ſition, he promiſed with his family the like baſe con<g ref="char:EOLhyphen"/>ditions againſt themſelves, ſo they have made them<g ref="char:EOLhyphen"/>ſelves ſlaves by promiſe, but he craveth the equall be<g ref="char:EOLhyphen"/>nefit of the Preſſe, competent meanes of ſubſiſtance, and monies to Printers, but I hope the Parliament will not put, but rather wreſt the ſword out of ſuch mad mens hands, and will not afford the like benefit to ſlaves by promiſe, as to thoſe who have not made any ſuch obligation, nor caſt away the Commonwealths mo<g ref="char:EOLhyphen"/>ney to them, or their Printers, unleſſe it were for a better purpoſe then to propagate that hatefull ſinne of ſowing ſtrife amongſt brethren.</p>
+            <p>But above all perſons, this Accuſer hath a great fling at me, and yet his ſling-ſtones are but as ſtubble, but his madneſſe is becauſe he was caſt out of the Church, as may appear by his Pamphlet; herein he acteth the Dragons part, who was exceeding wrath after hee ſaw he was caſt out of Heaven, and therefore though the Heavens are called to rejoyce, yet a woe is pronoun<g ref="char:EOLhyphen"/>ced to the Earth and the Inhabitants thereof, <hi>For the de<g ref="char:EOLhyphen"/>vill is come downe unto you, having great wrath, becauſe he knoweth he hath but a ſhort time.</hi>
+            </p>
+            <p>Whereas he ſaith I was moſt juſtly by the direction of the Truſtees, expulſed both from my Office and lodg<g ref="char:EOLhyphen"/>ings at <hi>Worceſter</hi> houſe, for deceitfull dealing and unjuſt
+<pb n="11" facs="tcp:117368:8"/>Levelling in Civill matters there, againſt many both poore and rich; I deny that there was, or is any ſuch thing againſt me, ſurely, if there had been any ſuch thing the Truſtees would have told me ſo; I deny not, but through their unadviſednes there was very many com<g ref="char:EOLhyphen"/>plaints, which is a uſuall thing with the poorer ſort, to murmur againſt thoſe who have dealings with them, For their debts, not being paid by the Truſtees accord<g ref="char:EOLhyphen"/>ing to their Bonds, cauſed poverty, and their poverty murmuring, <hi>But the Lord ſtilleth the raging Seas,</hi> and trou<g ref="char:EOLhyphen"/>blous murmurings of the people. Who can ſay ſince I came into <hi>Worceſter</hi> houſe, that I have done the thing that is unjuſt, and prove it? if the Truſtees had been as forward to have protected me, as I them, from the Clamours of the rude People, things would have been carried well: And I know not that the Truſtees have given any ſuch directions, as he ſaith, to expulſe me from my Office and Lodgings. Indeed I did depart from my Lodgings for another cauſe, and touching my Office, I was Receiver of all the Debenters, and the time was ex<g ref="char:EOLhyphen"/>pired which is limited by the laſt Act. And ever ſince I have faithfully followed the buſineſſe of the Common<g ref="char:EOLhyphen"/>wealth, for which I deſerve my Salary ſtill; and if the Truſtees pay it not, I have ſo much confidence in their Superiours, that I ſhall have every penny. I have been a faithfull ſervant to the Commonwealth from the be<g ref="char:EOLhyphen"/>ginning, and have performed my place without extort<g ref="char:EOLhyphen"/>ing of Bribes, according to the univerſall diſeaſe that is inbred amongſt almoſt all Clerks, that make not the Word of God their rule.</p>
+            <p>But the hardeſt meaſures of reproaches I have received from Religious perſons, who differ from me in matters fundamentall, they hopeing that the reproaches which
+<pb n="13" facs="tcp:117368:9"/>they heape upon mee, will cauſe my ſpirituall teſti<g ref="char:EOLhyphen"/>mony concerning the truth of God, wherein I am their oppoſer, not to be received or beleived; and this is Sa<g ref="char:EOLhyphen"/>tans policy: I could name men but I reſerve it for ano<g ref="char:EOLhyphen"/>ther time, and one in ſpecial, a ſuperiour ſervant of the Truſtees, whoſe mouth againſt me is like a GRAVE, and his throat an open Sepulcher; and it roſe from a contro<g ref="char:EOLhyphen"/>verſie concerning the term <hi>Our Lord God,</hi> which I would not put in my Conveyances, but the <hi>Lord Chriſt,</hi> for ſaid I, How old do you make your Lord God, but 1650! whereas my Lord God hath been from all eternity, and he is the Head of Chriſt, ſo I being called in queſtion by his means by the Truſtees for putting in <hi>Chriſt</hi> inſtead of <hi>our Lord</hi> in the new Debenters, I made Anſwer, that I had not derogated from the Act, and I cleared my ſelfe from thoſe aſperſions, which he that informed a<g ref="char:EOLhyphen"/>gainſt me caſt upon me, and profeſſed my faith in the e<g ref="char:EOLhyphen"/>ternal God, and in his ſon Jeſus Chriſt <hi>my Lord,</hi> and after ſent them for further reſolution ſome of my Printed Pa<g ref="char:EOLhyphen"/>pers which are as followeth.</p>
+            <div type="part">
+               <head>From the Office of the Register for Debenters, at <hi>Worceſter-houſe.</hi>
+               </head>
+               <p>WHereas divers perſons have at ſundry times queſtioned what is my meaning to write theſe words <hi>Errors excepted</hi> in their duplicates ſigned in this Office: Hereby is meant not only all miſcaſting of the Sums, Over-chargings and Under-chargings, either on the one hand, or on the other, tending to the prejudice of the Debitor or Cre<g ref="char:EOLhyphen"/>ditor, loſſe of the benefit of their Arrears, by any unjuſt ſentence, Over<g ref="char:EOLhyphen"/>ſights in Receipts, if any be, Unequal deductions of, or unjuſt charg<g ref="char:EOLhyphen"/>ings with Free-quarter, Miſtakes in Letters of Atturney, Debenters, and Aſſignments, in the date, names or ſums, Counterfeit Debenters, and Aſſignments; all which the Auditor is to ſee to rectifie, but alſo all prophane, and vain bablings, &amp; miſ-applications of the grace of God,
+<pb n="12" facs="tcp:117368:9"/>Defender of the Faith, <hi>&amp;c,</hi> and ſuch like phraſes, frequent in Letters of Adminiſtration and Aſſignments, contradictory to the principall parts of the late Engagement.</p>
+               <p>But whereas it may be objected; why I receive ſuch things where<g ref="char:EOLhyphen"/>in are errors I anſwer, I except againſt all the errors, and receive them in to cancell them, according to Order, that the Owners of them may have new Debenters, for the old, in the nature of Bonds and Bils, not for any errors, but for that ſum or thoſe ſums of mony due unto them ex<g ref="char:EOLhyphen"/>cepting againſt the maintaining of Chaplins, as they are Chaplins; as I have frequently expreſſed and given under my hand, a confiderable ſcruple of a cautious conſcience.</p>
+               <p>But becauſe many who know not what the power of godlineſſe is, will count me too captious and curious, and always finding fault, will ſay, I have ſome exceptions againſt the new Debenters, delivered from this Office, I anſwer, that ſetting the idolatrous impreſſions in the Seals a ſide, I have none at all, unleſſe it bee the Printers miſtake in ſome part of them, omiting a word, and putting the year of <hi>our Lord</hi> 1651. inſtead of the year of <hi>Chriſt</hi> 1651. For in humility it is con<g ref="char:EOLhyphen"/>ceived, that this word [our Lord] is too high and too holy for all to whom the new Debenters do belong: For it is queſtionable, whether they have an intereſt in the Lord, whom they cal their Lord, but rather many of them are of their Father the Devill, whoſe works they do; yet they have their portion in this life; and in equity, what is due upon Debenters, muſt be paid off to the Originall Creditors, as the <hi>States Servants,</hi> and not as the <hi>Lords Servants</hi> without a viſible demon<g ref="char:EOLhyphen"/>ſtration thereof; for a beleeving Maſter may have an unbeleeving Ser<g ref="char:EOLhyphen"/>vant, and he is not to oppreſſe him by keeping backe his wages, for that is a curſed thing; and it is the note of a wicked man, to borrow and not to pay, but righteous men are mercifull men, and ſo full of rationality as to love their enemies, to bleſſe them that curſe them, to pray for them that perſecute them and diſpightfully uſe them, and to owe nothing to any man, but love: If Chriſtians owe any thing to a Heathen, or a Jew, or any other who acknowledgeth not Chriſt to be his Lord, yet I ſee no reaſon, that that Jew, Heathen or Unbeleever ſhould be deprived of his right by any man whatſoever.</p>
+               <p>Yet I could wiſh that this whole Army might expell their droſſe. and in reſpect of ſanctification be made as white as ſnow in <hi>Salmon,</hi> then we might well expect the Almighty to ſcatter Kings by it, their
+<pb n="14" facs="tcp:117368:10"/>hattels would be ſtill victorious and their end glorious. As touching the victory which God hath given them in ſubduing the common e<g ref="char:EOLhyphen"/>nemy, it is not for their righteouſneſſe, but becauſe of the wickeneſſe of thoſe prophane, blood-thirſty, implacable enemies of his, whom he hath ſubdued before them; therefore the Lord putteth them away as droſſe, as its feared be will doe theſe after a while, unleſſe they ceaſe to do evill, and learn to doe well, till which time Chriſt is not viſibly and properly their Lord, neither are they his people, notwithſtanding their victories, for Gods prerogative Royall is ſometimes to go beyond his ordinary diſpenſations: but my advice unto them is, to lead ſanctified lives, ſo they may truly ſay, the Lord is their Lord.</p>
+               <p>Ye Souldiers, Omit not your duty, do violence to no man, be con<g ref="char:EOLhyphen"/>tent with your wages, and my endeavours and prayers ſhall be for you, And truly Sirs, my hearts deſire is, that you may have your Arrears, Why ſhould you not? you have dearly earned it, its the price of your blood. As for thoſe who have periſhed already for want of what was their due, which ſhould have ſupported them, the rich men muſt anſwer for it, who are called to weep and howle for the miſeries which are comming upon them, for the bread of the needy is the life of the poore, and he that defraudeth him of it, is a murtherer, and the Lord ſaith, thou ſhalt take no ranſome for the life of him who is guilty of death, but he ſhall ſurely be put to death at the mouth of two or three witneſſes. What I have ſaid in conſcience to God, and in love to you, I deſire you to take it in good part, for I am</p>
+               <closer>
+                  <signed>Your reall friend and ſervant, SAMUEL CHIDLEY. <hi>To all perſons herein concerned particularly.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
